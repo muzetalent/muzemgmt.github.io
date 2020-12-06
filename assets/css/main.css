@@ -59,9 +59,18 @@
 	grid-gap: 1rem;
   }
 
+  .contactcards {
+	max-width: 1200px;
+	margin: 0 auto;
+	display: grid;
+	grid-gap: 1rem;
+	text-align: center;
+  }
+
 
   @media (min-width: 950px) {
 	.cards { grid-template-columns: repeat(2, 1fr);}
+	.contactcards { grid-template-columns: repeat(3, 1fr);}
   }
 
 /*
