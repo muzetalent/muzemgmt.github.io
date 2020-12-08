@@ -2876,7 +2876,7 @@ input, select, textarea {
 					margin: 1.25em 0 0 1.25em;
 				}
 
-					.tiles article:hover > .image, article:active > .image{
+					.tiles article:hover > .image{
 						-moz-transform: scale(1.0);
 						-webkit-transform: scale(1.0);
 						-ms-transform: scale(1.0);
