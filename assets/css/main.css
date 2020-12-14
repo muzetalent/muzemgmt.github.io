@@ -18,6 +18,13 @@ html {
 	color: #585858!important;
 }
 
+.middleLogo{
+	display: block;
+  	margin-left: auto;
+ 	 margin-right: auto;
+  	width: 50%;
+}
+
   
   
   /* Change the link color to #111 (black) on hover */
