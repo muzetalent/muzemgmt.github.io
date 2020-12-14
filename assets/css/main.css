@@ -1,7 +1,15 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
 
+@font-face {
+	font-family: muzeFont;
+	src: url(asterone.ttf);
+}
 
+html {
+	font-family: muzeFont!important;
+}
+  
   
   /* Change the link color to #111 (black) on hover */
   .newMenuBar {
@@ -2928,7 +2936,7 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
+					width: 4em;
 					
 				}
 
