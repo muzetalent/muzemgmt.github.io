@@ -9,6 +9,15 @@
 html {
 	font-family: muzeFont!important;
 }
+
+.title{
+	color: black!important;
+}
+
+.title:hover{
+	color: #585858!important;
+}
+
   
   
   /* Change the link color to #111 (black) on hover */
@@ -2928,6 +2937,8 @@ input, select, textarea {
 			#header .logo > * {
 				display: inline-block;
 				vertical-align: middle;
+				
+
 			}
 
 			#header .logo .symbol {
